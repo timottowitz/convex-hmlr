@@ -1,0 +1,11 @@
+{
+  "name": "hmlr-example",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "npx convex dev"
+  },
+  "dependencies": {
+    "convex": "^1.17.0"
+  }
+}
